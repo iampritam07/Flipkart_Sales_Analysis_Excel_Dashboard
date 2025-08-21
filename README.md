@@ -17,11 +17,12 @@ This project presents an interactive sales dashboard, built entirely in **Micros
 ## ⚡ How to Use:
 1. **Download** the Excel file from this repository.
 2. **Open** the dashboard in Microsoft Excel (desktop recommended).
-3. **Interact** with filters to view sales performance by:
+3. **Interact** with sclicers to view sales performance by:
    - Years (2020 - 2025)
    - Quarter (Q1 - Q4)
    - Gender (Male/Female)
    - Product Category and City
+   - **Note:** To clear a filter applied through slicers, right-click the slicer and select **Remove Filter**.
 5. **Analyze** trends and identify actionable insights using the built-in charts.
 
 ## 🛠️ Tools & Techniques
