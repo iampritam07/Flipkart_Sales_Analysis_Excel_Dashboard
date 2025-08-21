@@ -12,7 +12,9 @@ This project presents an interactive sales dashboard, built entirely in **Micros
 - All interactivity and visuals created using standard Excel tools—no external plugins
 
 ### 📸 Final Result:
-![Flipkart Sales Dashboard](https://github.com/iampritam07/Flipkart_Sales_Analysis_Excel_Dashboard/raw/main/Flipkart_Sales_D ⚡ How to Use
+![Flipkart Sales Dashboard]((https://github.com/iampritam07/Flipkart_Sales_Analysis_Excel_Dashboard/blob/main/Flipkart_Sales_Dashboard_Snapshot.png)
+
+## ⚡ How to Use:
 1. **Download** the Excel file from this repository.
 2. **Open** the dashboard in Microsoft Excel (desktop recommended).
 3. **Interact** with filters to view sales performance by:
