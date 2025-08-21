@@ -22,7 +22,7 @@ This project presents an interactive sales dashboard, built entirely in **Micros
    - Quarter (Q1 - Q4)
    - Gender (Male/Female)
    - Product Category and City
-   - **Note:** To clear a filter applied through slicers, right-click the slicer and select **Remove Filter**.
+4. **Note:** To clear a filter applied through slicers, right-click the slicer and select **Remove Filter**.
 5. **Analyze** trends and identify actionable insights using the built-in charts.
 
 ## 🛠️ Tools & Techniques
