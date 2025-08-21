@@ -38,10 +38,3 @@ This project presents an interactive sales dashboard, built entirely in **Micros
 **Pritam Paul**  
 MIS Enthusiast | Data Analytics & Dashboarding  
 [LinkedIn Profile](https://www.linkedin.com/in/iampritam07/)
-
-***
-
-Ready to explore actionable sales insights?  
-**Download the Excel file, try the interactive filters, and uncover key trends!**
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/90877659/48a10135-a29e-4c99-8846-040958e922e7/Flipkart_Sales_Dashboard_Snapshot.jpg)
